@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe3aacf1-6fe1-45ad-8e31-d57c83331f96" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.github/workflows/gh-pages.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/examples/example.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/examples/example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/assets/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/assets/project.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/assets/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/data/scrollRevealConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/abstracts/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/abstracts/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/base/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/layout/_sections.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/sections/_about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/sections/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/sections/_hero.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/sections/_projects.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/sass/vendors/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/scripts/scrollReveal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/scripts/tiltAnimation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplefolio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R8iXXSygNg8NEyq3cTjrA8iQY8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Manojkumar_Uriti/IdeaProjects/Portfolio/src/assets"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manojkumar_Uriti\IdeaProjects\Portfolio\src\assets" />
+      <recent name="C:\Users\Manojkumar_Uriti\IdeaProjects\Portfolio\simplefolio\src\assets" />
+      <recent name="C:\Users\Manojkumar_Uriti\IdeaProjects\Portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Manojkumar_Uriti\IdeaProjects\Portfolio" />
+      <recent name="C:\Users\Manojkumar_Uriti\IdeaProjects\Portfolio\simplefolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe3aacf1-6fe1-45ad-8e31-d57c83331f96" name="Changes" comment="" />
+      <created>1686638148893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686638148893</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1686653499756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686653499756</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1686653518357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686653518357</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1686653716772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686653716772</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
